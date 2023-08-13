@@ -1,8 +1,8 @@
 # SETI Extraterrestrial Language Decoding Project(Alliens)
 
-(https://en.wikipedia.org/wiki/SETI_Institute#/media/File:SETI_Logotype_RGB_reduced_res.png)
-(https://aas.org/sites/default/files/inline-images/SETI-FDL-2020.png)
-(https://pbs.twimg.com/media/Dm1CDKiWwAAABzJ?format=jpg&name=large)
+![](https://en.wikipedia.org/wiki/SETI_Institute#/media/File:SETI_Logotype_RGB_reduced_res.png)
+![](https://aas.org/sites/default/files/inline-images/SETI-FDL-2020.png)
+![](https://pbs.twimg.com/media/Dm1CDKiWwAAABzJ?format=jpg&name=large)
 
 Welcome to the SETI Extraterrestrial Language Decoding Project! This repository is dedicated to unraveling the mysteries of enigmatic signals received from a distant galaxy by the renowned Search for Extraterrestrial Intelligence (SETI) Institute. These signals, akin to scenes from science fiction classics like "Arrival," offer a tantalizing glimpse into the existence of an elusive and cryptic interstellar language.
 
